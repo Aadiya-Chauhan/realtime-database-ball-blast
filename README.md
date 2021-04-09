@@ -1,1 +1,2 @@
-# realtime-database-ball-blast
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
